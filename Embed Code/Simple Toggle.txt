@@ -1,0 +1,5 @@
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fdesign%2FVmeRR94ijPQt5zTI5WW6zt%2FToggle-Swich%3Fnode-id%3D0-1%26t%3D6yTftXZ8udZZ5FG3-1" allowfullscreen></iframe>
+
+
+
+Link of Figma: https://www.figma.com/design/VmeRR94ijPQt5zTI5WW6zt/Toggle-Swich?node-id=0-1&t=6yTftXZ8udZZ5FG3-1
